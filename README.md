@@ -1,1 +1,2 @@
 # Currency-Converter
+The purpose of this Currency Converter project is to provide a straightforward tool for converting between different currencies. This project is particularly useful for individuals or businesses needing quick, on-the-go currency conversion. The application can be expanded to include additional currencies and updated conversion rates, making it a flexible and adaptable solution for users across various scenarios, such as travel, international business, or financial analysis.
